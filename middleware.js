@@ -29,5 +29,3 @@ client.Hello(request, function(err, response) {
   }
 });
 
-// client pipeline
-//
